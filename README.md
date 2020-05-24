@@ -1,9 +1,9 @@
 # Integer Linear Programming in Python
 
 Demonstrate how to convert a matching optimization problem into an integer linear programming problem and solve it using Python. The following is an example that this project is going to solve: hundreds of students will take a survery to rank their top 5 choices among 25 courses before the semester starts. Based on these lists of preferences, we will assign all students into courses and maximize student satisfaction under some constraints including
-    1) a student is placed into one course
-    2) a size of all courses is between 14 and 16
-    3) there are various major students within a course to include different perspectives
+    1. A student is placed into one course
+    2. A size of all courses is between 14 and 16
+    3. There are various major students within a course to include different perspectives
 
 The goal is to maximize the number of students who are assigned to their first and second choices and minimize the number of students placed in their third, fourth, and fifth choices.
 
@@ -21,11 +21,11 @@ There are four csv files.
 
 
 ```
-pip3 install pulp
+$ pip3 install pulp
 ```
 
 ```
-brew install glpk
+$ brew install glpk
 ```
 
 ## Results
