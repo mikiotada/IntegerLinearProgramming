@@ -8,8 +8,6 @@ Demonstrate how to convert a matching optimization problem into an integer linea
 
 The goal is to maximize the number of students who are assigned to their first and second choices and minimize the number of students placed in their third, fourth, and fifth choices.
 
-## Getting Started
-
 ## Data Set up
 
 There are four csv files.  
