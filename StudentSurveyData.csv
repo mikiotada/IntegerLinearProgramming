@@ -1,0 +1,362 @@
+﻿Student_ID,Major ,First,Second,Third,Fourth ,Fifth
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_21,course_1,course_9,course_19,course_3
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_17,course_9,course_2,course_1,course_16
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_21,course_23,course_14,course_22
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_6,course_15,course_10,course_12,course_5
+,BIOLOGY,course_10,course_18,course_12,course_5,course_8
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_23,course_4,course_17,course_2,course_18
+,EXPLORATORY,course_20,course_16,course_0,course_24,course_19
+,EXPLORATORY,course_2,course_11,course_12,course_7,course_5
+,BIOLOGY,course_18,course_8,course_20,course_15,course_9
+,PSYCHOLOGY,course_1,course_11,course_10,course_3,course_17
+,GEOLOGY,course_8,course_21,course_15,course_23,course_5
+,GEOLOGY,course_0,course_19,course_2,course_24,course_9
+,BIOLOGY,course_16,course_5,course_7,course_14,course_0
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_17,course_22,course_19,course_24,course_14
+,BIOLOGY,course_0,course_21,course_24,course_17,course_20
+,BIOLOGY,course_12,course_8,course_6,course_7,course_11
+,PSYCHOLOGY,course_11,course_21,course_24,course_20,course_23
+,BIOCHEMISTRY_ CHEMISTRY,course_4,course_22,course_0,course_18,course_15
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_1,course_24,course_21,course_23,course_16
+,BIOLOGY,course_7,course_20,course_23,course_24,course_13
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_22,course_4,course_23,course_5
+,BIOCHEMISTRY_ CHEMISTRY,course_9,course_20,course_24,course_22,course_6
+,EXPLORATORY,course_9,course_23,course_11,course_14,course_6
+,GEOLOGY,course_21,course_19,course_2,course_22,course_5
+,BIOLOGY,course_21,course_4,course_7,course_20,course_17
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_21,course_13,course_16,course_6
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_21,course_11,course_2,course_24,course_15
+,BIOLOGY,course_13,course_20,course_24,course_9,course_6
+,PSYCHOLOGY,course_13,course_24,course_23,course_3,course_7
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_24,course_21,course_2,course_13,course_5
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_11,course_20,course_10,course_6,course_4
+,BIOLOGY,course_0,course_5,course_23,course_21,course_20
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_6,course_8,course_12,course_2,course_17
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_20,course_15,course_11,course_17,course_10
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_3,course_1,course_13,course_18,course_16
+,EDUCATION_ PRE-K4 ,course_11,course_19,course_13,course_22,course_21
+,BIOCHEMISTRY_ CHEMISTRY,course_15,course_0,course_12,course_16,course_14
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_18,course_3,course_8,course_5,course_21
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_17,course_9,course_15,course_16
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_19,course_14,course_4,course_20,course_16
+,BIOLOGY,course_21,course_3,course_10,course_9,course_24
+,HISTORY,course_16,course_20,course_0,course_7,course_21
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_22,course_6,course_7,course_8,course_15
+,PSYCHOLOGY,course_1,course_12,course_20,course_24,course_18
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_21,course_20,course_22,course_14,course_11
+,BIOLOGY,course_21,course_0,course_12,course_5,course_24
+,PSYCHOLOGY,course_22,course_11,course_19,course_8,course_7
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_0,course_17,course_22,course_18,course_13
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_24,course_20,course_17,course_23,course_7
+,BIOLOGY,course_23,course_9,course_16,course_20,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_0,course_9,course_17,course_22,course_3
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_3,course_2,course_18,course_6,course_24
+,BIOLOGY,course_1,course_12,course_15,course_19,course_22
+,BIOLOGY,course_14,course_16,course_19,course_15,course_24
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_23,course_9,course_19,course_18,course_21
+,BIOLOGY,course_23,course_14,course_21,course_17,course_3
+,ENGLISH_ PROFESSIONAL WRITING,course_0,course_12,course_6,course_18,course_1
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_24,course_13,course_20,course_15,course_18
+,ENGLISH_ PROFESSIONAL WRITING,course_16,course_18,course_23,course_19,course_8
+,PSYCHOLOGY,course_22,course_8,course_17,course_11,course_20
+,BIOLOGY,course_19,course_6,course_9,course_16,course_2
+,BIOCHEMISTRY_ CHEMISTRY,course_12,course_14,course_19,course_23,course_18
+,BIOLOGY,course_9,course_21,course_0,course_1,course_4
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_7,course_0,course_9,course_8,course_12
+,BIOLOGY,course_11,course_19,course_8,course_6,course_16
+,BIOCHEMISTRY_ CHEMISTRY,course_13,course_23,course_19,course_14,course_24
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_5,course_7,course_1,course_23,course_24
+,HISTORY,course_13,course_5,course_21,course_3,course_22
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_0,course_21,course_11,course_16,course_24
+,BIOCHEMISTRY_ CHEMISTRY,course_10,course_17,course_16,course_24,course_6
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_12,course_8,course_20,course_0,course_18
+,BIOLOGY,course_6,course_22,course_10,course_7,course_17
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_22,course_2,course_12,course_20,course_16
+,BIOLOGY,course_17,course_2,course_7,course_3,course_8
+,FINE ARTS_ STUDIO ART,course_24,course_18,course_19,course_10,course_23
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_23,course_10,course_1,course_24,course_19
+,BIOCHEMISTRY_ CHEMISTRY,course_17,course_12,course_15,course_0,course_20
+,EXPLORATORY,course_18,course_24,course_16,course_21,course_23
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_0,course_24,course_19,course_6,course_14
+,BIOLOGY,course_7,course_8,course_17,course_10,course_21
+,EXPLORATORY,course_22,course_13,course_21,course_17,course_14
+,BIOCHEMISTRY_ CHEMISTRY,course_0,course_2,course_6,course_7,course_8
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_24,course_13,course_18,course_22,course_9
+,BIOLOGY,course_5,course_23,course_24,course_17,course_4
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_22,course_23,course_21,course_19,course_20
+,BIOLOGY,course_19,course_17,course_23,course_21,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_24,course_6,course_14,course_10
+,BIOCHEMISTRY_ CHEMISTRY,course_9,course_7,course_1,course_19,course_12
+,BIOCHEMISTRY_ CHEMISTRY,course_18,course_3,course_24,course_22,course_20
+,BIOLOGY,course_10,course_16,course_19,course_23,course_2
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_0,course_1,course_23,course_10,course_3
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_16,course_22,course_10,course_18,course_0
+,BIOLOGY,course_5,course_4,course_11,course_22,course_13
+,BIOLOGY,course_4,course_23,course_19,course_11,course_13
+,EDUCATION_ PRE-K4 ,course_1,course_9,course_22,course_19,course_14
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_9,course_5,course_21,course_17,course_16
+,EXPLORATORY,course_23,course_13,course_24,course_10,course_21
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_21,course_12,course_23,course_10,course_2
+,EDUCATION_ PRE-K4 ,course_7,course_24,course_5,course_20,course_15
+,BIOCHEMISTRY_ CHEMISTRY,course_10,course_4,course_14,course_16,course_12
+,EDUCATION_ PRE-K4 ,course_24,course_22,course_17,course_23,course_20
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_2,course_10,course_8,course_18,course_23
+,HISTORY,course_1,course_21,course_4,course_14,course_17
+,BIOLOGY,course_21,course_10,course_0,course_22,course_24
+,EXPLORATORY,course_15,course_21,course_2,course_23,course_14
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_7,course_3,course_13,course_17,course_21
+,BIOCHEMISTRY_ CHEMISTRY,course_20,course_3,course_10,course_17,course_21
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_10,course_24,course_15,course_23,course_21
+,PSYCHOLOGY,course_4,course_21,course_13,course_2,course_22
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_23,course_6,course_24,course_20,course_13
+,BIOLOGY,course_20,course_4,course_22,course_8,course_19
+,BIOCHEMISTRY_ CHEMISTRY,course_2,course_13,course_11,course_21,course_19
+,BIOLOGY,course_1,course_22,course_23,course_21,course_16
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_9,course_23,course_20,course_10,course_22
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_16,course_14,course_9,course_8,course_23
+,BIOCHEMISTRY_ CHEMISTRY,course_14,course_5,course_24,course_15,course_1
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_24,course_21,course_11,course_14,course_20
+,GEOLOGY,course_12,course_14,course_18,course_23,course_20
+,EXPLORATORY,course_24,course_5,course_10,course_3,course_23
+,PSYCHOLOGY,course_21,course_6,course_24,course_12,course_23
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_3,course_0,course_6,course_23,course_24
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_21,course_22,course_23,course_12,course_13
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_23,course_5,course_17,course_24,course_14
+,PSYCHOLOGY,course_14,course_3,course_21,course_22,course_20
+,BIOLOGY,course_17,course_15,course_3,course_20,course_21
+,BIOLOGY,course_24,course_2,course_7,course_16,course_6
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_24,course_2,course_22,course_3
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_17,course_22,course_19,course_5,course_6
+,FRENCH_ GERMAN_ SPANISH,course_21,course_24,course_2,course_19,course_20
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_21,course_7,course_10,course_0,course_23
+,BIOLOGY,course_21,course_14,course_19,course_1,course_5
+,BIOLOGY,course_6,course_4,course_11,course_16,course_7
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_13,course_20,course_17,course_4
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_19,course_7,course_20,course_4,course_2
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_17,course_9,course_20,course_23,course_5
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_17,course_11,course_15,course_12,course_22
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_22,course_24,course_0,course_16,course_3
+,BIOCHEMISTRY_ CHEMISTRY,course_2,course_22,course_9,course_8,course_3
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_8,course_13,course_6,course_22,course_19
+,MATHEMATICS,course_21,course_0,course_6,course_22,course_24
+,BIOLOGY,course_22,course_5,course_21,course_14,course_11
+,BIOLOGY,course_20,course_2,course_23,course_9,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_6,course_0,course_11,course_24,course_12
+,EXPLORATORY,course_15,course_21,course_17,course_10,course_9
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_15,course_19,course_4,course_5,course_13
+,BIOCHEMISTRY_ CHEMISTRY,course_6,course_15,course_2,course_7,course_0
+,BIOLOGY,course_13,course_9,course_5,course_15,course_8
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_6,course_8,course_21,course_17,course_4
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_17,course_5,course_4,course_0,course_22
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_22,course_0,course_5,course_21,course_2
+,PSYCHOLOGY,course_0,course_18,course_7,course_10,course_19
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_3,course_21,course_19,course_1,course_20
+,BIOCHEMISTRY_ CHEMISTRY,course_15,course_7,course_12,course_22,course_18
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_24,course_11,course_23,course_9,course_18
+,EXPLORATORY,course_8,course_0,course_4,course_13,course_10
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_7,course_0,course_20,course_8,course_9
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_12,course_13,course_22,course_6,course_20
+,EXPLORATORY,course_21,course_22,course_16,course_24,course_18
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_21,course_18,course_16,course_9,course_19
+,EXPLORATORY,course_17,course_9,course_18,course_7,course_2
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_0,course_20,course_1,course_15,course_7
+,BIOLOGY,course_5,course_21,course_7,course_19,course_6
+,EDUCATION_ PRE-K4 ,course_2,course_14,course_24,course_23,course_7
+,BIOLOGY,course_9,course_8,course_3,course_21,course_23
+,BIOLOGY,course_11,course_1,course_2,course_13,course_15
+,ENGLISH_ PROFESSIONAL WRITING,course_9,course_6,course_15,course_17,course_2
+,HISTORY,course_7,course_20,course_18,course_4,course_0
+,BIOLOGY,course_1,course_13,course_24,course_0,course_17
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_24,course_13,course_14,course_23,course_18
+,EXPLORATORY,course_23,course_15,course_4,course_8,course_0
+,HISTORY,course_15,course_0,course_24,course_19,course_13
+,BIOCHEMISTRY_ CHEMISTRY,course_19,course_3,course_1,course_12,course_14
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_2,course_6,course_5,course_19,course_21
+,EDUCATION_ PRE-K4 ,course_13,course_3,course_20,course_10,course_15
+,ENGLISH_ PROFESSIONAL WRITING,course_19,course_10,course_3,course_22,course_17
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_21,course_17,course_6,course_7,course_4
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_21,course_12,course_18,course_8,course_22
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_8,course_12,course_0,course_19,course_7
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_14,course_24,course_16,course_22,course_10
+,EXPLORATORY,course_0,course_8,course_17,course_23,course_22
+,EDUCATION_ PRE-K4 ,course_3,course_0,course_7,course_21,course_1
+,BIOLOGY,course_23,course_16,course_3,course_2,course_1
+,BIOLOGY,course_22,course_16,course_15,course_21,course_4
+,BIOLOGY,course_11,course_20,course_8,course_19,course_16
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_22,course_21,course_19,course_16,course_11
+,EXPLORATORY,course_22,course_4,course_9,course_18,course_17
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_22,course_15,course_21,course_6,course_14
+,FRENCH_ GERMAN_ SPANISH,course_14,course_7,course_18,course_12,course_15
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_9,course_0,course_19,course_10,course_7
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_20,course_17,course_11,course_14,course_23
+,EDUCATION_ PRE-K4 ,course_14,course_17,course_2,course_18,course_22
+,BIOLOGY,course_15,course_9,course_5,course_2,course_18
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_22,course_24,course_18,course_10,course_5
+,PSYCHOLOGY,course_6,course_14,course_0,course_18,course_11
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_4,course_5,course_24,course_21,course_22
+,EXPLORATORY,course_0,course_13,course_21,course_17,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_23,course_24,course_11,course_14
+,FINE ARTS_ STUDIO ART,course_14,course_6,course_9,course_22,course_3
+,EDUCATION_ PRE-K4 ,course_15,course_7,course_4,course_9,course_20
+,BIOLOGY,course_9,course_8,course_1,course_11,course_5
+,EDUCATION_ PRE-K4 ,course_19,course_21,course_10,course_24,course_17
+,BIOLOGY,course_22,course_9,course_0,course_16,course_7
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_24,course_3,course_14,course_21,course_12
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_6,course_7,course_19,course_17,course_20
+,BIOLOGY,course_6,course_24,course_5,course_10,course_13
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_17,course_6,course_16,course_22,course_5
+,BIOLOGY,course_23,course_18,course_5,course_14,course_22
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_7,course_17,course_21,course_2,course_19
+,BIOLOGY,course_24,course_14,course_6,course_8,course_16
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_0,course_22,course_21,course_24,course_23
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_18,course_0,course_8,course_14
+,BIOLOGY,course_22,course_2,course_14,course_12,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_1,course_21,course_19,course_15,course_13
+,FRENCH_ GERMAN_ SPANISH,course_15,course_7,course_0,course_9,course_23
+,BIOLOGY,course_4,course_22,course_15,course_13,course_21
+,BIOLOGY,course_13,course_7,course_21,course_23,course_22
+,FRENCH_ GERMAN_ SPANISH,course_15,course_3,course_2,course_21,course_22
+,EDUCATION_ PRE-K4 ,course_24,course_3,course_5,course_21,course_4
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_8,course_7,course_19,course_21,course_12
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_24,course_23,course_9,course_19,course_10
+,BIOCHEMISTRY_ CHEMISTRY,course_7,course_24,course_19,course_1,course_18
+,BIOCHEMISTRY_ CHEMISTRY,course_1,course_24,course_14,course_22,course_10
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_20,course_6,course_11,course_9,course_8
+,BIOLOGY,course_24,course_12,course_19,course_14,course_20
+,BIOLOGY,course_21,course_22,course_19,course_3,course_20
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_23,course_10,course_18,course_19,course_9
+,BIOLOGY,course_9,course_15,course_17,course_21,course_22
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_11,course_10,course_18,course_13,course_7
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_20,course_12,course_24,course_22
+,PSYCHOLOGY,course_20,course_19,course_13,course_12,course_0
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_11,course_2,course_0,course_17,course_18
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_8,course_18,course_7,course_19,course_9
+,BIOLOGY,course_18,course_5,course_20,course_2,course_24
+,MATHEMATICS,course_22,course_13,course_23,course_11,course_0
+,BIOLOGY,course_24,course_4,course_8,course_0,course_9
+,BIOCHEMISTRY_ CHEMISTRY,course_21,course_6,course_23,course_8,course_1
+,BIOCHEMISTRY_ CHEMISTRY,course_1,course_14,course_21,course_9,course_0
+,ENGLISH_ PROFESSIONAL WRITING,course_13,course_9,course_18,course_22,course_11
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_19,course_6,course_24,course_2,course_16
+,EXPLORATORY,course_23,course_21,course_22,course_16,course_2
+,EXPLORATORY,course_12,course_2,course_0,course_18,course_14
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_16,course_23,course_11,course_20,course_9
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_11,course_18,course_15,course_21,course_0
+,FINE ARTS_ STUDIO ART,course_1,course_16,course_20,course_13,course_8
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_22,course_14,course_17,course_18
+,BIOLOGY,course_15,course_6,course_18,course_4,course_23
+,EXPLORATORY,course_0,course_11,course_8,course_10,course_9
+,BIOLOGY,course_11,course_1,course_8,course_17,course_4
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_2,course_22,course_0,course_15,course_21
+,BIOLOGY,course_18,course_17,course_15,course_20,course_19
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_7,course_21,course_22,course_12,course_20
+,EDUCATION_ PRE-K4 ,course_0,course_2,course_1,course_11,course_6
+,BIOLOGY,course_15,course_10,course_21,course_0,course_20
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_15,course_14,course_5,course_4,course_16
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_22,course_8,course_20,course_5,course_7
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_18,course_12,course_14,course_0,course_19
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_12,course_14,course_17,course_11,course_6
+,EXPLORATORY,course_16,course_14,course_0,course_8,course_20
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_7,course_23,course_21,course_19,course_20
+,BIOLOGY,course_17,course_4,course_19,course_21,course_0
+,BIOLOGY,course_0,course_15,course_16,course_23,course_8
+,EXPLORATORY,course_23,course_24,course_22,course_9,course_21
+,BIOLOGY,course_6,course_23,course_9,course_10,course_20
+,BIOLOGY,course_8,course_20,course_18,course_2,course_22
+,EXPLORATORY,course_3,course_13,course_7,course_21,course_2
+,PSYCHOLOGY,course_22,course_20,course_18,course_10,course_1
+,PEACE AND CONFLICT STUDIES,course_13,course_14,course_23,course_4,course_21
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_22,course_18,course_0,course_23,course_24
+,EDUCATION_ PRE-K4 ,course_17,course_19,course_23,course_11,course_8
+,BIOLOGY,course_0,course_22,course_14,course_19,course_21
+,BIOLOGY,course_3,course_24,course_19,course_23,course_16
+,BIOLOGY,course_5,course_17,course_23,course_11,course_21
+,EXPLORATORY,course_15,course_0,course_19,course_5,course_2
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_23,course_14,course_10,course_5,course_18
+,EXPLORATORY,course_12,course_16,course_19,course_15,course_24
+,BIOLOGY,course_22,course_23,course_10,course_4,course_14
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_10,course_24,course_13,course_4,course_20
+,ENGLISH_ PROFESSIONAL WRITING,course_14,course_6,course_8,course_11,course_17
+,BIOCHEMISTRY_ CHEMISTRY,course_13,course_3,course_10,course_22,course_0
+,BIOLOGY,course_23,course_0,course_16,course_4,course_9
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_15,course_14,course_9,course_7,course_18
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_11,course_15,course_5,course_23,course_17
+,BIOLOGY,course_1,course_14,course_23,course_19,course_2
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_22,course_14,course_21,course_12,course_23
+,BIOLOGY,course_0,course_20,course_4,course_14,course_9
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_13,course_19,course_7,course_2,course_18
+,BIOLOGY,course_16,course_15,course_4,course_20,course_13
+,EXPLORATORY,course_24,course_17,course_21,course_4,course_15
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_17,course_18,course_16,course_19,course_23
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_21,course_4,course_15,course_8,course_14
+,ENGLISH_ PROFESSIONAL WRITING,course_16,course_4,course_20,course_12,course_14
+,BIOLOGY,course_20,course_17,course_12,course_16,course_14
+,EXPLORATORY,course_16,course_5,course_0,course_24,course_4
+,BIOCHEMISTRY_ CHEMISTRY,course_13,course_21,course_23,course_2,course_18
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_11,course_0,course_22,course_16,course_3
+,BIOLOGY,course_14,course_23,course_17,course_12,course_11
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_20,course_11,course_23,course_12,course_24
+,PSYCHOLOGY,course_15,course_10,course_4,course_18,course_12
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_23,course_17,course_3,course_4,course_0
+,EDUCATION_ PRE-K4 ,course_6,course_9,course_21,course_24,course_0
+,BIOLOGY,course_21,course_7,course_2,course_12,course_0
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_24,course_23,course_13,course_16,course_22
+,BIOLOGY,course_24,course_13,course_17,course_23,course_12
+,EXPLORATORY,course_12,course_6,course_0,course_8,course_23
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_6,course_3,course_20,course_5,course_7
+,PSYCHOLOGY,course_15,course_22,course_0,course_6,course_13
+,EXPLORATORY,course_14,course_18,course_23,course_17,course_21
+,BIOLOGY,course_7,course_8,course_24,course_19,course_17
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_16,course_21,course_17,course_15,course_24
+,BIOLOGY,course_15,course_12,course_7,course_10,course_9
+,HISTORY,course_16,course_14,course_8,course_17,course_0
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_0,course_13,course_21,course_3,course_10
+,FINE ARTS_ STUDIO ART,course_12,course_3,course_0,course_5,course_16
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_13,course_20,course_1,course_16,course_18
+,BIOLOGY,course_24,course_0,course_15,course_10,course_20
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_19,course_21,course_24,course_14,course_13
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_13,course_14,course_10,course_12,course_1
+,PSYCHOLOGY,course_5,course_24,course_17,course_14,course_6
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_10,course_22,course_8,course_16,course_7
+,EXPLORATORY,course_1,course_9,course_2,course_0,course_4
+,PSYCHOLOGY,course_21,course_4,course_23,course_9,course_12
+,BIOLOGY,course_6,course_3,course_24,course_17,course_7
+,"INTERNATIONAL POLITICS_ PHILOSOPHY, POLITICS and ECONOMICS_ POLITICS",course_13,course_5,course_17,course_4,course_1
+,PEACE AND CONFLICT STUDIES,course_21,course_4,course_16,course_18,course_2
+,BIOLOGY,course_10,course_15,course_2,course_4,course_11
+,BIOLOGY,course_6,course_19,course_17,course_13,course_5
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_21,course_22,course_23,course_14,course_0
+,EDUCATION_ PRE-K4 ,course_18,course_21,course_16,course_15,course_10
+,BIOLOGY,course_18,course_21,course_0,course_15,course_23
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_0,course_4,course_19,course_24,course_22
+,EXPLORATORY,course_17,course_8,course_19,course_14,course_21
+,BIOLOGY,course_15,course_8,course_22,course_24,course_0
+,BIOLOGY,course_7,course_16,course_18,course_21,course_0
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_22,course_7,course_1,course_19,course_3
+,BIOLOGY,course_1,course_21,course_20,course_15,course_18
+,BIOLOGY,course_11,course_8,course_24,course_9,course_4
+,EXPLORATORY,course_24,course_21,course_14,course_11,course_0
+,BIOCHEMISTRY_ CHEMISTRY,course_2,course_14,course_19,course_9,course_11
+,EXPLORATORY,course_13,course_20,course_21,course_8,course_15
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_24,course_5,course_14,course_12,course_21
+,FINE ARTS_ STUDIO ART,course_8,course_5,course_24,course_12,course_19
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_20,course_16,course_17,course_14,course_7
+,BIOLOGY,course_4,course_24,course_10,course_7,course_22
+,ENGLISH_ PROFESSIONAL WRITING,course_18,course_24,course_20,course_11,course_3
+,EDUCATION_ PRE-K4 ,course_20,course_21,course_6,course_22,course_11
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_20,course_23,course_9,course_22,course_24
+,ENVIRONMENTAL ECONOMICS_ ENVIRONMENTAL SCIENCE_ ENVIRONMENTAL STUDIES_ FISHERIES AND AQUATIC SCIENCES_ WILDLIFE  CONSERVATION,course_19,course_17,course_4,course_20,course_7
+,PSYCHOLOGY,course_13,course_15,course_0,course_18,course_2
+,SOCIAL STUDIES_ SOCIAL WORK_ SOCIOLOGY,course_13,course_18,course_8,course_3,course_14
+,BIOLOGY,course_0,course_4,course_9,course_19,course_24
+,MATHEMATICS,course_5,course_14,course_22,course_23,course_19
+,COMMUNICATION_ HEALTH COMMUNICATION__ THEATRE,course_2,course_21,course_22,course_24,course_7
+,PHYSICS_ PRE-ENGINEERING_ ENGINEERING PHYSICS,course_24,course_15,course_11,course_8,course_23
+,PSYCHOLOGY,course_7,course_20,course_23,course_1,course_18
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_19,course_8,course_15,course_0,course_6
+,ACCOUNTING_ BUSINESS_ ENTREPRENEURSHIP_ FINANCE_ INTERNATIONAL BUSINESS_ MARKETING,course_3,course_0,course_15,course_13,course_24
+,EXPLORATORY,course_14,course_7,course_19,course_22,course_12
+,EXPLORATORY,course_18,course_23,course_3,course_22,course_10
+,BIOLOGY,course_20,course_3,course_0,course_19,course_16
+,COMPUTER SCIENCE_ INFORMATION TECHNOLOGY,course_23,course_10,course_3,course_15,course_11
+,FRENCH_ GERMAN_ SPANISH,course_8,course_18,course_21,course_23,course_24
